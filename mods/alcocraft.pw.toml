@@ -3,11 +3,6 @@ filename = "alcocraftplus-1.20-2.1.0-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cdead0824c19cd1d21e0e915d3bf77c2a4982dad"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7007609
-project-id = 847059
+url = "https://github.com/KLeviNeu/bences/raw/refs/heads/main/alcocraftplus-1.20-2.1.0-forge.jar"
+hash-format = "sha256"
+hash = "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f"
