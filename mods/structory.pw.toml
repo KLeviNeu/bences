@@ -3,11 +3,6 @@ filename = "Structory_1.20.x_v1.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 5351581
-project-id = 636540
+url = "https://github.com/KLeviNeu/bences/raw/refs/heads/main/Structory_1.20.x_v1.3.5.jar"
+hash-format = "sha256"
+hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
