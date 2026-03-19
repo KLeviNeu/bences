@@ -1,0 +1,13 @@
+name = "AlcoCraft+"
+filename = "alcocraftplus-1.20-2.1.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdead0824c19cd1d21e0e915d3bf77c2a4982dad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7007609
+project-id = 847059

@@ -1,0 +1,11 @@
+name = "bences"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b64c4f5d142956a082ecaab9751598ac85fdc3b500859ce97682899c8d78116a"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"
