@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Structory_1.20.x_v1.3.5.jar"
+hash = "43f4b4b88bb9caa1114928a93e787335e56171b5233a545bf2f4da1ce9fe943b"
+
+[[files]]
+file = "alcocraftplus-1.20-2.1.0-forge.jar"
+hash = "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f"
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "f131905d113ba9dd127abf3c9f897aaf4ecf59657c415752533893d44cb584df"
 metafile = true
