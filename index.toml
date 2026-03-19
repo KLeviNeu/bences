@@ -15,7 +15,7 @@ metafile = true
 
 [[files]]
 file = "mods/alcocraft.pw.toml"
-hash = "ac9933d1295c670f61f73c6d57d69b0886195cd25441590e1550fe25d7019b1f"
+hash = "52eef39e8fde19c998a0c88990654f50d1cbf34577115d2f6d4e80dfe11e7bc4"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "1b42f998ffce7af75b6bb18625980dd7ec37354269586da9ee77c23070a3697c"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]

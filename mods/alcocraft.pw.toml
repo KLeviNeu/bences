@@ -3,6 +3,11 @@ filename = "alcocraftplus-1.20-2.1.0-forge.jar"
 side = "both"
 
 [download]
-url = "https://github.com/KLeviNeu/bences/raw/refs/heads/main/alcocraftplus-1.20-2.1.0-forge.jar"
+url = "https://cdn.modrinth.com/data/6t2MdNbo/versions/o7aK5zaB/alcocraftplus-1.20-2.1.0-forge.jar"
 hash-format = "sha512"
 hash = "96ebb50c65df9ee2164d6443d115f77fddad62cad0f48df6c157f47f0140301b563ecc567c1f02c80251e06a130105fa0f3de346619613f7591703369cf68981"
+
+[update]
+[update.modrinth]
+mod-id = "6t2MdNbo"
+version = "o7aK5zaB"
