@@ -3,8 +3,8 @@ filename = "ScorchedGuns-0.5.5-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "a65d1a6fea7b44602c63175a8ea9a144d83a5de5"
+hash-format = "sha512"
+hash = "d7fb829be196f3ca2d40ec8ce75bc3bafce61c727b5e73538efc1d14d6620571f969ee63935d34f101ac0e60190136fe3e7908e05b898687631cf2a3ee2a42e6"
 mode = "metadata:curseforge"
 
 [update]

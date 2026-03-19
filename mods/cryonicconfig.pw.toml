@@ -3,8 +3,8 @@ filename = "cryonicconfig-forge-1.0.0+mc1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "852d32a59486f1bf13faa70c63c7a6fba28091a5"
+hash-format = "sha512"
+hash = "e7292eb8ef797e950f4479a0c51c30706436e994f405aa1eddbeb173383813fc8922f44eb42eb39de587de848042115b522482d43a43c45f9bed9944e497a524"
 mode = "metadata:curseforge"
 
 [update]

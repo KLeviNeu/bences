@@ -3,8 +3,8 @@ filename = "BotanyPots-Forge-1.20.1-13.0.43.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36d5c12071293df90a3599df6076b974e94b26d3"
+hash-format = "sha512"
+hash = "fe0fe6f15123fa3cdd9d3a675a1d103abc776fbd1067db3997d98fefbc51188f321f4d2b20115ae6ad56681d40cb518b51b9707269e5d090b4f0ff36d60fe8a8"
 mode = "metadata:curseforge"
 
 [update]

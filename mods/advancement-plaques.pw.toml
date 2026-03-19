@@ -3,8 +3,8 @@ filename = "AdvancementPlaques-1.20.1-forge-1.6.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "6e7b01db61f9646977bd06e9d85492a667d4a8bd"
+hash-format = "sha512"
+hash = "20053af7b38b6d25c18c73608f5437f7298c2cf9310c0f71933c02224bf903b18ae61c9959753d834e2c9687b6b57175bfe01f3a3c96bcc599714a4f5155b492"
 mode = "metadata:curseforge"
 
 [update]

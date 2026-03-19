@@ -3,8 +3,8 @@ filename = "ImprovableSkills-1.20.1-20.1.13.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5354698d331524e62b235d747d4e0283cd027eb1"
+hash-format = "sha512"
+hash = "3b6704c83b82e9f045e5068ada51e917c112b294b7440a351a845bd8ca4aa740c7b774fcf79be81e54cb1411f3a793ddbc258865e77899d3d7ac179388b00427"
 mode = "metadata:curseforge"
 
 [update]

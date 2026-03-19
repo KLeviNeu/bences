@@ -3,8 +3,8 @@ filename = "BotanyTrees-Forge-1.20.1-9.0.20.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "de22565d05cfb2b9995ae622055e592b5c8f0a9a"
+hash-format = "sha512"
+hash = "f281d1726b82de2336d2ea7f650359c08e0b1a68952bdf58478f5311e20d4dae849259a897be40ef6279c884f234d90c76868efd1edf274180c11b4ef4b60921"
 mode = "metadata:curseforge"
 
 [update]

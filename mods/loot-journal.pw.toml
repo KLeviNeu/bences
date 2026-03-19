@@ -3,8 +3,8 @@ filename = "Loot Journal-forge-1.20.1-5.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8e7ccadf53cd18cd092b58f72f781bed7211bf04"
+hash-format = "sha512"
+hash = "ace94ad0c5fd2b9a28a0f054a01462539f683e4521a726a2bf500a99bccc15015449104a072b426e09ddf1002800dcf67382807cd707416aaecb2c32a0a7f057"
 mode = "metadata:curseforge"
 
 [update]

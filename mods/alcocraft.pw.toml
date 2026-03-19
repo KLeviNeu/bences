@@ -4,5 +4,5 @@ side = "both"
 
 [download]
 url = "https://github.com/KLeviNeu/bences/raw/refs/heads/main/alcocraftplus-1.20-2.1.0-forge.jar"
-hash-format = "sha256"
-hash = "b0005e37573521113e807cfa098ba023ceecf75da386d3a180af4b5af11c188f"
+hash-format = "sha512"
+hash = "96ebb50c65df9ee2164d6443d115f77fddad62cad0f48df6c157f47f0140301b563ecc567c1f02c80251e06a130105fa0f3de346619613f7591703369cf68981"

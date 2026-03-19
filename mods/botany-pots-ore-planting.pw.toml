@@ -3,8 +3,8 @@ filename = "BotanyPotsOrePlanting-Forge-7.36.1+1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "118e5133f236d2a53a849c935d48cf8422e62eff"
+hash-format = "sha512"
+hash = "e9f929f4e8a7aedb39dfa98dc4950faa6c8be8970e653cfe0d915bfabdf0242a5c90393d22da4d74b46fdefc7ed5a447b39b67b423acd3219f35a18ad1fc1869"
 mode = "metadata:curseforge"
 
 [update]
